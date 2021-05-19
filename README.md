@@ -11,4 +11,4 @@ Test configuration:
 
 Volocity fields are reversble so initial scalar distribution is equal to final one and exact solution is avalible.
 
-In files l1 stands for l_1 error, l2 - l_2 error, linf - l_inf, max - phi_max error, min -phi_min error.
+In files l1 stands for l_1 error, l2 - l_2 error, linf - l_inf, max - phi_max error, min - phi_min error.
